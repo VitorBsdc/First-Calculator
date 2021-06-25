@@ -11,6 +11,10 @@
     text-align: center;
 }
 
+#title {/*Titulo espaço parte de cima*/
+    padding-top: 25px;
+}
+
 .calculadora {/*Box da calculadora por completo*/
     position: absolute;
     background-color: rgba(0, 0, 0, 0.8);
